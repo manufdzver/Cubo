@@ -19,78 +19,57 @@
     <ObjectSnapshots>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
-        <TimeStamp>lJjJ/Xa1/ViHakZkkNcvQlWskno=26/11/2018 12:17:07 p. m.26/11/2018 12:07:57 p. m.</TimeStamp>
-        <ID>
-          <String>Food Mart</String>
-        </ID>
-      </ObjectSnapshot>
-      <ObjectSnapshot>
-        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
-        <TimeStamp>MfIITxdBulZiFx8eVJJG0+4I1yQ=26/11/2018 12:40:47 p. m.26/11/2018 12:40:47 p. m.</TimeStamp>
-        <ID>
-          <String>Food Mart 1</String>
-        </ID>
-      </ObjectSnapshot>
-      <ObjectSnapshot>
-        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>Q0FyeCw26/hPQVivLMgmpmSXqWM=26/11/2018 12:18:25 p. m.26/11/2018 12:18:20 p. m.</TimeStamp>
+        <TimeStamp>KeD4dd3Fz8/bUdIeFzLGxG1j2xw=03/12/2018 12:55:20 p. m.03/12/2018 12:31:55 p. m.</TimeStamp>
         <ID>
           <String>Food Mart</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>9/lwHJbcCICfzMRo8odnruYTxGQ=26/11/2018 12:42:43 p. m.26/11/2018 12:42:43 p. m.</TimeStamp>
+        <TimeStamp>G37V8yStPa/F8XdkP/Ycp+TwZC0=03/12/2018 12:31:55 p. m.03/12/2018 12:31:55 p. m.</TimeStamp>
         <ID>
-          <String>Food Mart 1</String>
+          <String>Food Mart</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>d3+EubQGedW+uqMhYrBc7ktKjHU=26/11/2018 12:20:07 p. m.26/11/2018 12:20:07 p. m.</TimeStamp>
+        <TimeStamp>F1klwrcHZhUem+2oTh12/Zarw7E=03/12/2018 12:31:55 p. m.03/12/2018 12:31:55 p. m.</TimeStamp>
         <ID>
           <String>Customer</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>47aHxnOGib341hCNpMtdrSF2Em4=26/11/2018 12:20:08 p. m.26/11/2018 12:20:07 p. m.</TimeStamp>
+        <TimeStamp>YncnGgUUd9j80WuycRYVkU9bbxQ=03/12/2018 12:31:55 p. m.03/12/2018 12:31:55 p. m.</TimeStamp>
         <ID>
           <String>Store</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>fmyvdkP/C4E+pohFueACAvABCP4=26/11/2018 12:20:08 p. m.26/11/2018 12:20:07 p. m.</TimeStamp>
+        <TimeStamp>SDJX4fgcfKvLC7Y/Q7ONK7gv7Oo=03/12/2018 12:31:55 p. m.03/12/2018 12:31:55 p. m.</TimeStamp>
         <ID>
           <String>Product</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>/55pCUlgBohUefu+N6R5uZehzfU=26/11/2018 12:33:00 p. m.26/11/2018 12:20:07 p. m.</TimeStamp>
+        <TimeStamp>FragtcSu+zSdTnXvxSueaSFr6AA=03/12/2018 12:31:55 p. m.03/12/2018 12:31:55 p. m.</TimeStamp>
         <ID>
           <String>Time By Day</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>lLl9TjzxHYe+MqJmYhgy7+IUTOo=26/11/2018 12:33:00 p. m.26/11/2018 12:20:07 p. m.+HbEiUTaFLfxylamoNgT13KcIm8=26/11/2018 12:20:07 p. m.26/11/2018 12:20:07 p. m.</TimeStamp>
+        <TimeStamp>jmTouSa6lVFl9Kru+wAwGtKu4LI=03/12/2018 12:57:30 p. m.03/12/2018 12:31:55 p. m.MkHJfzxWvcohWYiuk2EP5u1EIr4=03/12/2018 12:31:55 p. m.03/12/2018 12:31:55 p. m.</TimeStamp>
         <ID>
-          <String>Food Mart</String>
-        </ID>
-      </ObjectSnapshot>
-      <ObjectSnapshot>
-        <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>ajqxuI79Zqq6lUoZn6nna2NW98c=26/11/2018 12:43:04 p. m.26/11/2018 12:43:04 p. m.KLRu3JtZ8NnnceDK+bORchWjx+w=26/11/2018 12:43:04 p. m.26/11/2018 12:43:04 p. m.</TimeStamp>
-        <ID>
-          <String>Food Mart 1</String>
+          <String>FoodMart</String>
         </ID>
       </ObjectSnapshot>
     </ObjectSnapshots>
     <DatabaseSnapshot>
       <Type>Microsoft.AnalysisServices.Database</Type>
-      <TimeStamp>h4peVd+sD6gpqzY9Ry50Il3wYX8=26/11/2018 12:07:57 p. m.26/11/2018 12:07:57 p. m.</TimeStamp>
+      <TimeStamp>h4peVd+sD6gpqzY9Ry50Il3wYX8=03/12/2018 12:31:55 p. m.03/12/2018 12:31:55 p. m.</TimeStamp>
       <ID>
         <String>Tarea7_Eq4</String>
       </ID>
@@ -99,5 +78,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2018-11-26T18:43:13.626667Z</LastDeployed>
+  <LastDeployed>2018-12-03T18:57:32.263333Z</LastDeployed>
 </DeploymentSnapshot>

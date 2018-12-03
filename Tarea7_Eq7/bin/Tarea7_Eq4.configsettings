@@ -3,15 +3,7 @@
     <DataSources>
       <DataSource>
         <ID>Food Mart</ID>
-        <ConnectionString>Provider=Microsoft.ACE.OLEDB.16.0;Data Source=C:/Users/BALTAMIRG/Cubo/FoodMart.accdb</ConnectionString>
-        <ImpersonationInfo>
-          <ImpersonationMode xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">ImpersonateServiceAccount</ImpersonationMode>
-          <ImpersonationInfoSecurity xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">Unchanged</ImpersonationInfoSecurity>
-        </ImpersonationInfo>
-      </DataSource>
-      <DataSource>
-        <ID>Food Mart 1</ID>
-        <ConnectionString>Provider=Microsoft.ACE.OLEDB.16.0;Data Source=C:/Users/BALTAMIRG/Cubo/FoodMart.accdb</ConnectionString>
+        <ConnectionString>Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\BD\Tarea-7-BD\Tarea7_Eq7\FoodMart.accdb</ConnectionString>
         <ImpersonationInfo>
           <ImpersonationMode xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">ImpersonateServiceAccount</ImpersonationMode>
           <ImpersonationInfoSecurity xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">Unchanged</ImpersonationInfoSecurity>
@@ -34,26 +26,13 @@
     </Dimensions>
     <Cubes>
       <Cube>
-        <ID>Food Mart</ID>
+        <ID>FoodMart</ID>
         <MeasureGroups>
           <MeasureGroup>
-            <ID>Sales Fact 2008</ID>
+            <ID>Sales Fact2008</ID>
             <Partitions>
               <Partition>
-                <ID>Sales Fact 2008</ID>
-              </Partition>
-            </Partitions>
-          </MeasureGroup>
-        </MeasureGroups>
-      </Cube>
-      <Cube>
-        <ID>Food Mart 1</ID>
-        <MeasureGroups>
-          <MeasureGroup>
-            <ID>Sales Fact 2008</ID>
-            <Partitions>
-              <Partition>
-                <ID>Sales Fact 2008</ID>
+                <ID>Sales Fact2008</ID>
               </Partition>
             </Partitions>
           </MeasureGroup>

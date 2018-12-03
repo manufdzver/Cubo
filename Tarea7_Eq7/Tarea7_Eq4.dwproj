@@ -8,12 +8,12 @@
   </Database>
   <Cubes>
     <ProjectItem>
-      <Name>Food Mart.cube</Name>
-      <FullPath>Food Mart.cube</FullPath>
+      <Name>FoodMart.cube</Name>
+      <FullPath>FoodMart.cube</FullPath>
       <Dependencies>
         <ProjectItem>
-          <Name>Food Mart.partitions</Name>
-          <FullPath>Food Mart.partitions</FullPath>
+          <Name>FoodMart.partitions</Name>
+          <FullPath>FoodMart.partitions</FullPath>
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
@@ -56,7 +56,7 @@
           <ConfigurationSetting>
             <Id>Food Mart</Id>
             <Name>Food Mart</Name>
-            <Value xsi:type="xsd:string">Provider=Microsoft.ACE.OLEDB.16.0;Data Source=C:/Users/BALTAMIRG/Cubo/FoodMart.accdb</Value>
+            <Value xsi:type="xsd:string">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\BD\Tarea-7-BD\Tarea7_Eq7\FoodMart.accdb</Value>
           </ConfigurationSetting>
         </ConnectionMappings>
         <ConnectionSecurityMappings>
