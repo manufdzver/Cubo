@@ -8,7 +8,7 @@
     <TransactionalDeployment>false</TransactionalDeployment>
     <PartitionDeployment>DeployPartitions</PartitionDeployment>
     <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
-    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <ProcessingOption>Default</ProcessingOption>
     <OutputScript></OutputScript>
     <ImpactAnalysisFile></ImpactAnalysisFile>
     <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
@@ -19,49 +19,49 @@
     <ObjectSnapshots>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
-        <TimeStamp>KeD4dd3Fz8/bUdIeFzLGxG1j2xw=03/12/2018 12:55:20 p. m.03/12/2018 12:31:55 p. m.</TimeStamp>
+        <TimeStamp>l4FdYyJ138WYPcSgATjDwb+qP7k=05/12/2018 08:47:32 a. m.05/12/2018 08:38:51 a. m.</TimeStamp>
         <ID>
           <String>Food Mart</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>G37V8yStPa/F8XdkP/Ycp+TwZC0=03/12/2018 12:31:55 p. m.03/12/2018 12:31:55 p. m.</TimeStamp>
+        <TimeStamp>G37V8yStPa/F8XdkP/Ycp+TwZC0=05/12/2018 08:38:51 a. m.05/12/2018 08:38:51 a. m.</TimeStamp>
         <ID>
           <String>Food Mart</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>F1klwrcHZhUem+2oTh12/Zarw7E=03/12/2018 12:31:55 p. m.03/12/2018 12:31:55 p. m.</TimeStamp>
+        <TimeStamp>F1klwrcHZhUem+2oTh12/Zarw7E=05/12/2018 08:38:51 a. m.05/12/2018 08:38:51 a. m.</TimeStamp>
         <ID>
           <String>Customer</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>YncnGgUUd9j80WuycRYVkU9bbxQ=03/12/2018 12:31:55 p. m.03/12/2018 12:31:55 p. m.</TimeStamp>
+        <TimeStamp>YncnGgUUd9j80WuycRYVkU9bbxQ=05/12/2018 08:38:51 a. m.05/12/2018 08:38:51 a. m.</TimeStamp>
         <ID>
           <String>Store</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>SDJX4fgcfKvLC7Y/Q7ONK7gv7Oo=03/12/2018 12:31:55 p. m.03/12/2018 12:31:55 p. m.</TimeStamp>
+        <TimeStamp>SDJX4fgcfKvLC7Y/Q7ONK7gv7Oo=05/12/2018 08:38:51 a. m.05/12/2018 08:38:51 a. m.</TimeStamp>
         <ID>
           <String>Product</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>FragtcSu+zSdTnXvxSueaSFr6AA=03/12/2018 12:31:55 p. m.03/12/2018 12:31:55 p. m.</TimeStamp>
+        <TimeStamp>FragtcSu+zSdTnXvxSueaSFr6AA=05/12/2018 08:38:51 a. m.05/12/2018 08:38:51 a. m.</TimeStamp>
         <ID>
           <String>Time By Day</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>jmTouSa6lVFl9Kru+wAwGtKu4LI=03/12/2018 12:57:30 p. m.03/12/2018 12:31:55 p. m.MkHJfzxWvcohWYiuk2EP5u1EIr4=03/12/2018 12:31:55 p. m.03/12/2018 12:31:55 p. m.</TimeStamp>
+        <TimeStamp>jmTouSa6lVFl9Kru+wAwGtKu4LI=05/12/2018 08:38:51 a. m.05/12/2018 08:38:51 a. m.MkHJfzxWvcohWYiuk2EP5u1EIr4=05/12/2018 08:38:51 a. m.05/12/2018 08:38:51 a. m.</TimeStamp>
         <ID>
           <String>FoodMart</String>
         </ID>
@@ -69,7 +69,7 @@
     </ObjectSnapshots>
     <DatabaseSnapshot>
       <Type>Microsoft.AnalysisServices.Database</Type>
-      <TimeStamp>h4peVd+sD6gpqzY9Ry50Il3wYX8=03/12/2018 12:31:55 p. m.03/12/2018 12:31:55 p. m.</TimeStamp>
+      <TimeStamp>h4peVd+sD6gpqzY9Ry50Il3wYX8=05/12/2018 08:38:51 a. m.05/12/2018 08:38:51 a. m.</TimeStamp>
       <ID>
         <String>Tarea7_Eq4</String>
       </ID>
@@ -78,5 +78,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2018-12-03T18:57:32.263333Z</LastDeployed>
+  <LastDeployed>2018-12-05T15:33:09.833333Z</LastDeployed>
 </DeploymentSnapshot>
